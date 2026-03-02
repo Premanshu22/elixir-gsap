@@ -18,57 +18,57 @@ const navLinks = [
 ];
 
 const cocktailLists = [
- {
-	name: "Chapel Hill Shiraz",
-	country: "AU",
-	detail: "Battle",
-	price: "$10",
- },
- {
-	name: "Caten Malbee",
-	country: "AU",
-	detail: "Battle",
-	price: "$49",
- },
- {
-	name: "Rhino Pale Ale",
-	country: "CA",
-	detail: "750 ml",
-	price: "$20",
- },
- {
-	name: "Irish Guinness",
-	country: "IE",
-	detail: "600 ml",
-	price: "$29",
- },
+  {
+    name: "Saffron Sunset",
+    country: "IN",
+    detail: "Signature Blend",
+    price: "₹650",
+  },
+  {
+    name: "Royal Neelam",
+    country: "IN",
+    detail: "Classic Reserve",
+    price: "₹850",
+  },
+  {
+    name: "Kolkata Ember",
+    country: "IN",
+    detail: "750 ml",
+    price: "₹720",
+  },
+  {
+    name: "Malabar Mist",
+    country: "IN",
+    detail: "600 ml",
+    price: "₹590",
+  },
 ];
 
 const mockTailLists = [
- {
-	name: "Tropical Bloom",
-	country: "US",
-	detail: "Battle",
-	price: "$10",
- },
- {
-	name: "Passionfruit Mint",
-	country: "US",
-	detail: "Battle",
-	price: "$49",
- },
- {
-	name: "Citrus Glow",
-	country: "CA",
-	detail: "750 ml",
-	price: "$20",
- },
- {
-	name: "Lavender Fizz",
-	country: "IE",
-	detail: "600 ml",
-	price: "$29",
- },
+  {
+    name: "Mango Maharaja",
+    country: "IN",
+    detail: "Fresh Fusion",
+    price: "₹480",
+  },
+  {
+    name: "Mint Masala",
+    country: "IN",
+    detail: "Herbal Twist",
+    price: "₹450",
+  },
+  {
+    name: "Citrus Ganga",
+    country: "IN",
+    detail: "750 ml",
+    price: "₹520",
+  },
+  {
+    name: "Rosewood Fizz",
+    country: "IN",
+    detail: "600 ml",
+    price: "₹500",
+  },
 ];
 
 const profileLists = [
@@ -102,10 +102,10 @@ const goodLists = [
 
 const storeInfo = {
  heading: "Where to Find Us",
- address: "456, Raq Blvd. #404, Los Angeles, CA 90210",
+ address: "Velvet Pour, 42B, Patuli, Kolkata, West Bengal 700084, India",
  contact: {
-	phone: "(555) 987-6543",
-	email: "hello@jsmcocktail.com",
+	phone: "(+91) 4487785486",
+	email: "demo@velvetpour.com",
  },
 };
 
@@ -120,7 +120,7 @@ const socials = [
  {
 	name: "Instagram",
 	icon: "/images/insta.png",
-	url: "#",
+	url: "https://www.instagram.com/ig_premanshu/",
  },
  {
 	name: "X (Twitter)",

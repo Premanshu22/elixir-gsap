@@ -73,7 +73,7 @@ const Hero = () => {
  return (
 	<>
 	 <section id="hero" className="noisy">
-		<h1 className="title">MOJITO</h1>
+		<h1 className="title">ELIXIR</h1>
 		
 		<img
 		 src="/images/hero-left-leaf.png"
@@ -91,17 +91,17 @@ const Hero = () => {
 		 
 		 <div className="content">
 			<div className="space-y-5 hidden md:block">
-			 <p>Cool. Crisp. Classic.</p>
+			 <p>Liquid Alchemy.</p>
 			 <p className="subtitle">
-				Sip the Spirit <br /> of Summer
+				Where Flavor Becomes <br /> Art
 			 </p>
 			</div>
 			
 			<div className="view-cocktails">
 			 <p className="subtitle">
-				Every cocktail on our menu is a blend of premium ingredients,
-				creative flair, and timeless recipes — designed to delight your
-				senses.
+				Every pour is precision.
+				Every blend is intention.
+				ELIXIR is where craftsmanship meets character.
 			 </p>
 			 <a href="#cocktails">View cocktails</a>
 			</div>
