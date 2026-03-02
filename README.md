@@ -24,7 +24,7 @@ The project focuses on immersive storytelling, smooth scroll interactions, pinne
 
 ## 🚀 Live Demo
 
-🔗 
+🔗 https://elixir-gsap.vercel.app/
 
 ---
 
